@@ -87,7 +87,7 @@ function AudioWord() {
                     </button>
                     <button
                         className="btn-primary px-8 py-4"
-                        onClick={() => window.location.href = '/'}>
+                        onClick={() => window.location.href = '/LearnWithCuckoo'}>
                         Powrót do strony głównej
                     </button>
                 </>

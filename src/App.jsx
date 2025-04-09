@@ -8,7 +8,7 @@ function App() {
     return (
         <Router>
             <Routes>
-                <Route path="/" element={<Home />} />
+                <Route path="/LearnWithCuckoo" element={<Home />} />
                 <Route path="/audio-word" element={<AudioWord />} />
                 {/* Przekazujemy topic jako parametr w URL */}
                 {/*<Route path="/lesson/:topic" element={<Lesson />} />*/}
